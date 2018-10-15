@@ -1,0 +1,31 @@
+{
+  "name": "bs-ant-design-mobile",
+  "version": "1.0.0",
+  "description": "Bucklescript bindings for Ant Design Mobile",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Enalmada/bs-ant-design-mobile"
+  },
+  "scripts": {
+    "changelog": "auto-changelog --template keepachangelog"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "bs-platform": "^4.0.6",
+    "cheerio": "^1.0.0-rc.2",
+    "got": "^9.2.2",
+    "lodash": "^4.17.11",
+    "reason-react": ">=0.5.3",
+    "antd-mobile": "^2.2.5"
+  },
+  "peerDependencies": {
+    "bs-platform": "^4.0.5",
+    "reason-react": ">=0.5.3",
+    "antd-mobile": ">=2.2.5"
+  },
+  "dependencies": {
+    "bs-moment": "^0.3.1",
+    "re-classnames": "^3.0.0"
+  }
+}
