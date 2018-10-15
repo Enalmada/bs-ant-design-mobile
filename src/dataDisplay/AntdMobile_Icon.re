@@ -18,6 +18,7 @@ type typeIcon = [
   | `up
   | `left
   | `right
+  | `down
   | `ellipsis
   | `loading
   | `search

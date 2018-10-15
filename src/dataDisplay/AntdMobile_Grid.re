@@ -6,8 +6,8 @@
 
 [@bs.deriving abstract]
 type dataProps = {
-  icon: string,
-  text: string,
+  icon: ReasonReact.reactElement,
+  text: ReasonReact.reactElement,
 };
 
 /* 2.2.5

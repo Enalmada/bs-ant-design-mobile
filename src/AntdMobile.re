@@ -21,9 +21,12 @@ module AgreeItem = AntdMobile_Checkbox.AgreeItem;
 module Radio = AntdMobile_Radio;
 module RadioItem = AntdMobile_Radio.RadioItem;
 module Switch = AntdMobile_Switch;
+module SearchBar = AntdMobile_SearchBar;
+module TextareaItem = AntdMobile_TextareaItem;
 
 /* Data Display */
 module Badge = AntdMobile_Badge;
 module Icon = AntdMobile_Icon;
 module List = AntdMobile_List;
 module Grid = AntdMobile_Grid;
+module Card = AntdMobile_Card;
