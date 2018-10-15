@@ -2,12 +2,14 @@
 
 ## Introduction
 
-** See bs-ant-design repo for original details. **
+** See [bs-ant-design](https://github.com/thangngoc89/bs-ant-design) repo for original credit on this pattern. **
 
-Bucklescript + ReasonReact binding for [Ant Design](https://mobile.ant.design) components. I write bindings when I needed them in my projects. If you find a component is missing, it's because I don't need it (yet).
+Bucklescript + ReasonReact binding for [Ant Design Mobile](https://mobile.ant.design) components. I write bindings when I needed them in my projects. 
+If you find a component is missing, it's because I don't need it (yet).
 
 Difference from [bs-antd](https://github.com/tiensonqin/bs-antd) style of bindings: It uses the official recommended way for writing bindings and it doesn't work for me. Best explained this in this [blog post](https://khoanguyen.me/writing-reason-react-bindings-the-right-way/)
 
+Cautionary note that I am very new to bindings so confirmation and testing is necessary for anything you want to use as I only tested what I use.
 
 ## Installation
 
