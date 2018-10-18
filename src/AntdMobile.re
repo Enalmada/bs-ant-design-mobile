@@ -30,3 +30,9 @@ module Icon = AntdMobile_Icon;
 module List = AntdMobile_List;
 module Grid = AntdMobile_Grid;
 module Card = AntdMobile_Card;
+module NoticeBar = AntdMobile_NoticeBar;
+
+/* Feedback */
+module ActivityIndicator = AntdMobile_ActivityIndicator;
+module Modal = AntdMobile_Modal;
+module Toast = AntdMobile_Toast;
